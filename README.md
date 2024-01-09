@@ -57,3 +57,9 @@ This project uses starter code and examples given by Columbia Engineering Coding
 ## Questions
 
 Contact me with questions at n3rodriguez2001@gmail.com. You can find more of my work at [Nat-Rodriguez](https://github.com/Nat-Rodriguez/).
+
+## Video
+
+https://github.com/Nat-Rodriguez/9-readmegeneratorchallenge/assets/139597737/32682041-ef77-439e-a450-ebcb416ec00d
+
+
